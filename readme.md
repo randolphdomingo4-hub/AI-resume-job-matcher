@@ -2,14 +2,13 @@
 
 A beginner Python project that compares resume text with a job description and provides a match score, matched keywords, missing keywords, and improvement suggestions.
 
-##Features
-
-accepts resume text
-accepts job description
-calculates match score
-detects matched keywords
-detects missing keywords
-suggests improvements
+## Features
+- Accepts resume text
+- Accepts job description
+- Calculates match score
+- Detects matched keywords
+- Detects missing keywords
+- Suggests improvements
 
 ## Skills Used
 - Python fundamentals
@@ -20,18 +19,6 @@ suggests improvements
 - Basic scoring logic
 - Resume/job description comparison
 - Recommendation system logic
-
-## Skills Used
-- Python variables
-- input()
-- functions
-- if/elif/else
-- lists
-- for loops
-- string methods
-- keyword matching
-- basic scoring logic
-- simple recommendation system
 
 ## Sample Output
 
